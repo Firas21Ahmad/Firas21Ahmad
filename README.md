@@ -5,11 +5,11 @@
 <!--img src="https://s12.gifyu.com/images/SVsGx.gif"height="100%" width="100%"-->
 <!-- img src="https://i.ibb.co/b7RFg20/project-1.gif" height="1500" width="2000"-->
 
-![1b6333d2-03f5-448e-9d47-31b46a61310f](https://github.com/user-attachments/assets/7de93e24-f4a2-44bc-bff1-ad966e893b29)
+![1b6333d2-03f5-448e-9d47-31b46a61310f](https://github.com/user-attachments/assets/aeabedef-e72c-46b6-b9c0-7494a9b245b9)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firas21Ahmad&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firas21Ahmad&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firas21Ahmad&theme=tokyonight&hide_progress=true)
 
  
 ## 🔧 Tech Stack
