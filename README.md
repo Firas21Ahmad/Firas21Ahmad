@@ -1,6 +1,6 @@
 <!-- h1 align="center">Hi 👋! My name is<br>Firas AL Ahmad<br>a program enthusiast</h1 -->
 <!-- the latest working one -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&tokyonight&color=#38bdae)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=130&tokyonight&color=#38bdae)
 
 
 
