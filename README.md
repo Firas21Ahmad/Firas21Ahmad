@@ -7,3 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firas21Ahmad&theme=tokyonight&hide_progress=true)
  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do)](https://github.com/Firas21Ahmad/Plans-To-Do)
