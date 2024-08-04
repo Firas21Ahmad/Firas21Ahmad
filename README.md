@@ -1,5 +1,15 @@
 <!-- h1 align="center">Hi 👋! My name is<br>Firas AL Ahmad<br>a program enthusiast</h1 -->
 <!-- the latest working one -->
+![waving](https://capsule-render.vercel.app/api?type=waving&height=180&tokyonight&color=#38bdae)
+
+
+
+
+
+
+
+
+
 
 <!-- img src="https://svg-banners.vercel.app/api?type=luminance&text1=%F0%9F%94%BBmouhamamd%F0%9F%94%BB%20kl&width=1200&height=400" -->
 <!--img src="https://s12.gifyu.com/images/SVsGx.gif"height="100%" width="100%"-->
